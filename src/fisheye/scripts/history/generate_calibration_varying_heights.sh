@@ -1,0 +1,8 @@
+#!/bin/bash
+
+script -c 'time run_fisheye_for_calibration.py -i /media/autel/sim_ssd/4calibration/vary_heights/mediterranean_island_height_05_2023-07-19-15-49-37_out -o /media/autel/sim_ssd/4calibration/vary_heights_new_intrinsics_with_depth --remapping-folder /media/autel/sim_ssd/remapping_tables' mediterranean_island_height_05_2023-07-19-15-49-37_out.log
+script -c 'time run_fisheye_for_calibration.py -i /media/autel/sim_ssd/4calibration/vary_heights/mediterranean_island_height_10_2023-07-19-16-08-26_out -o /media/autel/sim_ssd/4calibration/vary_heights_new_intrinsics_with_depth --remapping-folder /media/autel/sim_ssd/remapping_tables' mediterranean_island_height_10_2023-07-19-16-08-26_out.log
+script -c 'time run_fisheye_for_calibration.py -i /media/autel/sim_ssd/4calibration/vary_heights/mediterranean_island_height_15_2023-07-19-16-26-38_out -o /media/autel/sim_ssd/4calibration/vary_heights_new_intrinsics_with_depth --remapping-folder /media/autel/sim_ssd/remapping_tables' mediterranean_island_height_15_2023-07-19-16-26-38_out.log
+script -c 'time run_fisheye_for_calibration.py -i /media/autel/sim_ssd/4calibration/vary_heights/mediterranean_island_height_20_2023-07-19-17-11-42_out -o /media/autel/sim_ssd/4calibration/vary_heights_new_intrinsics_with_depth --remapping-folder /media/autel/sim_ssd/remapping_tables' mediterranean_island_height_20_2023-07-19-17-11-42_out.log
+
+script -c 'time run_fisheye_for_calibration.py -i /media/autel/sim_ssd/4calibration/circular_path/factory_takeoff_then_circle_2023-08-16-07-06-25_out -o /media/autel/sim_ssd/4calibration/abandoned_factory_circular_path --remapping-folder /media/autel/sim_ssd/remapping_tables' abandoned_factory.log

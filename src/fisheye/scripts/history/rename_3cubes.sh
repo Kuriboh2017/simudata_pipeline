@@ -1,0 +1,17 @@
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Sample_Scene_02_2023-08-12-01-08-09_out' rename_Autel_Sample_Scene_02_2023-08-12-01-08-09_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_parkinggarage_2023-08-12-00-39-20_out' rename_Autel_parkinggarage_2023-08-12-00-39-20_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_ocean_Overview_2023-08-12-01-27-19_out' rename_Autel_ocean_Overview_2023-08-12-01-27-19_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_MountainGrassland_2023-08-11-23-59-48_out' rename_Autel_MountainGrassland_2023-08-11-23-59-48_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Map_MediterraneanIsle_a_2023-08-11-23-39-14_out' rename_Autel_Map_MediterraneanIsle_a_2023-08-11-23-39-14_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_MainLevel_2023-08-11-21-43-50_out' rename_Autel_MainLevel_2023-08-11-21-43-50_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_jungle_2023-08-12-01-44-26_out' rename_Autel_jungle_2023-08-12-01-44-26_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Japanese_Street_2023-08-11-23-00-31_out' rename_Autel_Japanese_Street_2023-08-11-23-00-31_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Garage_02_2023-08-11-22-24-01_out' rename_Autel_Garage_02_2023-08-11-22-24-01_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Forest_Environment_Set_Map_2023-08-11-22-05-40_out' rename_Autel_Forest_Environment_Set_Map_2023-08-11-22-05-40_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_ExampleOpenLandGrassMap_2023-08-12-00-22-09_out' rename_Autel_ExampleOpenLandGrassMap_2023-08-12-00-22-09_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Evening_Highway_2023-08-11-21-10-41_out' rename_Autel_Evening_Highway_2023-08-11-21-10-41_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_deserttown_2023-08-11-20-51-17_out' rename_Autel_deserttown_2023-08-11-20-51-17_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Demonstration_2023-08-11-22-42-11_out' rename_Autel_Demonstration_2023-08-11-22-42-11_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_Demo_Map_2023-08-11-23-20-01_out' rename_Autel_Demo_Map_2023-08-11-23-20-01_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_DekogonGym_Sunset_2023-08-11-20-31-21_out' rename_Autel_DekogonGym_Sunset_2023-08-11-20-31-21_out.log
+script -c 'time python3 cube3_post_fisheye_process.py -i Autel_abandonedfactory_2023-08-11-19-53-30_out' rename_Autel_abandonedfactory_2023-08-11-19-53-30_out.log

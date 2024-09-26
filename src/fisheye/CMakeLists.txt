@@ -1,0 +1,8 @@
+add_subdirectory(3pinholes_to_panorama)
+add_subdirectory(add_effects)
+add_subdirectory(fisheye_to_3pinholes)
+add_subdirectory(fisheye_to_erp)
+add_subdirectory(fisheye_to_panorama)
+add_subdirectory(panorama_to_3pinholes)
+add_subdirectory(panorama_to_fisheye)
+add_subdirectory(scripts)

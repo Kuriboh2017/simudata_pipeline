@@ -1,0 +1,25 @@
+
+# High fidelity dataset
+/mnt/113-data/R10198/samba-share/normal
+/mnt/113-data/R10198/samba-share/sytn_data_out
+/mnt/113-data/R10198/samba-share/sytn_data_out_indoor
+
+# Wire and random path dataset
+/mnt/cephfs-partitions/perception/New_Simulation_tools_origin/random_path/training_large_new_random_path_1
+/mnt/cephfs-partitions/perception/New_Simulation_tools_origin/wire/training_large_new_wire
+
+
+# fisheye dataset
+target=/mnt/115-rbd01/fisheye_dataset/noisy_rpy
+
+
+
+/mnt/113-data/samba-share/lowfly
+
+
+find /mnt/113-data/R10198/samba-share/sytn_data_out -name '*DesertTown_2023-04-15-10-42-15*' -type d
+find /mnt/113-data/R10198/samba-share/normal -name '*DesertTown_2023-04-15-10-42-15*' -type d
+find /mnt/113-data/R10198/samba-share/sytn_data_out_indoor -name '*DesertTown_2023-04-15-10-42-15*' -type d
+find /mnt/113-data/samba-share -name '*DesertTown_2023-04-15-10-42-15*' -type d
+
+

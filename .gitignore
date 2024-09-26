@@ -1,0 +1,10 @@
+build/
+.vscode/
+.editorconfig
+
+# Developer file used by Microsoft Visual C++
+*.ipch
+
+UE_Build/
+
+**/__pycache__/
